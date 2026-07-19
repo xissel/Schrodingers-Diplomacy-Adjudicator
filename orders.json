@@ -1,0 +1,47 @@
+[
+   {
+      "type" : "C",
+      "unit" : "1C",
+      "origin" : "",
+      "destination" : "",
+      "score" : 0,
+      "convoyed" : false,
+      "pointer" : 1
+   },
+   {
+      "type" : "T",
+      "unit" : "1A",
+      "origin" : "Lon",
+      "destination" : "Bel",
+      "score" : 0,
+      "convoyed" : true,
+      "pointer" : null
+   },
+   {
+      "type" : "M",
+      "unit" : "2A",
+      "origin" : "Orl",
+      "destination" : "Orl",
+      "score" : 0,
+      "convoyed" : false,
+      "pointer" : null
+   },
+   {
+      "type" : "H",
+      "unit" : "3A",
+      "origin" : "",
+      "destination" : "",
+      "score" : 0,
+      "convoyed" : false,
+      "pointer" : null
+   },
+   {
+      "type" : "S",
+      "unit" : "2B",
+      "origin" : "Bur",
+      "destination" : "Bel",
+      "score" : 0,
+      "convoyed" : false,
+      "pointer" : 1
+   }
+]

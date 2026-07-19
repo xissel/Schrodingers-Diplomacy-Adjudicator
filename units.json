@@ -1,0 +1,122 @@
+{
+   "1A": {
+      "superposition" : ["Lon"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "1B": {
+      "superposition" : ["Sct"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "1C": {
+      "superposition" : ["CEL"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "1D": {
+      "superposition" : ["NAO"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "2A": {
+      "superposition" : ["Orl"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "2B": {
+      "superposition" : ["Bur"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "2C": {
+      "superposition" : ["Pro"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "2D": {
+      "superposition" : ["Bri"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "3A": {
+      "superposition" : ["Ven"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "3B": {
+      "superposition" : ["Nap"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "3C": {
+      "superposition" : ["ADR"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "3D": {
+      "superposition" : ["TYS"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "4A": {
+      "superposition" : ["Sil"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "4B": {
+      "superposition" : ["War"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "4C": {
+      "superposition" : ["Cze"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "4D": {
+      "superposition" : ["Ber"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "5A": {
+      "superposition" : ["Mos"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "5B": {
+      "superposition" : ["Min"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "5C": {
+      "superposition" : ["Vol"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "5D": {
+      "superposition" : ["Stp"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "6A": {
+      "superposition" : ["Bul"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "6B": {
+      "superposition" : ["Ank"],
+      "type" : "Army",
+      "mflag" : false
+         },
+   "6C": {
+      "superposition" : ["Ist"],
+      "type" : "Fleet",
+      "mflag" : false
+         },
+   "6D": {
+      "superposition" : ["Gre"],
+      "type" : "Fleet",
+      "mflag" : false
+         }
+}
